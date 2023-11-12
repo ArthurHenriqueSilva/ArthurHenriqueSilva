@@ -3,7 +3,7 @@
 <div>
     <a href="https://github.com/ArthurHenriqueSilva"></a>
     <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=arthurhenriquesilva&show_icons=true&theme=dark" alt="">
-    <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=arthurhenriquesilva&theme=dark&layout=compact" alt=>
+    <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=arthurhenriquesilva&theme=dark&layout=compact" alt="MOst used languages">
 </div>
    
 ## Skills
