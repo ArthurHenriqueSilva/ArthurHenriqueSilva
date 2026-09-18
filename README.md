@@ -1,9 +1,9 @@
 <h1 align="left">Hi, I'm Arthur! 👋</h1>
 
 <p>
-  Computer Science graduate from UFS, Brazil 🇧🇷
+B.Sc. in Computer Science from UFS, Brazil 🇧🇷
   <br>
-  Full-Stack Web Developer at @3Tecnos-Development
+Full-Stack Web Developer at @3Tecnos-Development
 </p>
 
 ## GitHub Stats
@@ -11,12 +11,12 @@
 <div>
   <img
     height="165"
-    src="https://github-readme-stats.vercel.app/api?username=arthurhenriquesilva&show_icons=true&theme=github_dark&hide_border=true"
+    src="./profile/stats.svg"
     alt="Arthur's GitHub stats"
   />
   <img
     height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurhenriquesilva&layout=compact&theme=github_dark&hide_border=true"
+    src="./profile/top-langs.svg"
     alt="Arthur's most used languages"
   />
 </div>
